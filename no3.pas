@@ -13,7 +13,7 @@ clrscr;
        begin
        write ('*');
        end;
-        writeln
+        writeln;
     end;
 
     for y := 8 downto 6 do
@@ -29,8 +29,9 @@ clrscr;
        begin
        write ('*');
        end;
-        writeln
+        writeln;
     end;
 
 
 end.
+
