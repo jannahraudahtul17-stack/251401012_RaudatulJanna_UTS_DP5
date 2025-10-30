@@ -21,7 +21,6 @@ clrscr;
         total   := 0;
 
     write ('Sequence = ');
-    write (', ');
         if n >= 1 then
         begin
             write(a, ' ');
