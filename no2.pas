@@ -14,12 +14,14 @@ clrscr;
             readln  (t);
                 if t > a then
                     writeln ('Terlalu Besar! ')
-                else if t < a then
+                else 
+                if t < a then
                     writeln ('Terlalu Kecil! ')
                 else
                     writeln ('Selamat, kamu benar! ');
             writeln;
         until t = a;
     readln;
+
 
 end.
