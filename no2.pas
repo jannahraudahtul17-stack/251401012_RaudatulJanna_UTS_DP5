@@ -21,7 +21,8 @@ clrscr;
                     writeln ('Selamat, kamu benar! ');
             writeln;
         until t = a;
-    readln;
+            readln;
 
 
 end.
+
