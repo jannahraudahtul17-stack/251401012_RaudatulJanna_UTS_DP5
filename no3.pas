@@ -32,8 +32,8 @@ clrscr;
         writeln;
     end;
         readln;
-
-
+        
 end.
+
 
 
