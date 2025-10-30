@@ -16,7 +16,7 @@ clrscr;
         writeln
     end;
 
-     for y := 8 downto 6 do
+    for y := 8 downto 6 do
     begin
         for x := 1 to y do
         write ('*');
@@ -31,5 +31,6 @@ clrscr;
        end;
         writeln
     end;
+
 
 end.
