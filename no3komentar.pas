@@ -46,6 +46,7 @@ clrscr; {Yaitu suatu perintah untuk membersihkan layar konsol}
        end; {Menandakan akhir dari sebuah blok kode}
         writeln;    {perintah ini akan mengeksekusi apabila perulangan dalam telah selesai untuk nilai y, dan akan berpindah ke baris baru}
     end;    {Menandakan akhir dari sebuah blok kode}
+        readln;    {Membaca input dari pengguna dan menunggu pengguna menekankan tombol enter}
         
     // Kode Akhir //
 end.    {Menandakan sebagai akhir dari program}
