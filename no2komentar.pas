@@ -31,7 +31,8 @@ clrscr; {Yaitu suatu perintah untuk membersihkan layar konsol}
                     writeln ('Selamat, kamu benar! '); {Jika tebakan benar atau sama dengan angka rahasia, maka program akan menampilkan "Selamat, kamu benar!"}
             writeln;    {Menampilkan baris kosong}
         until t = a;    {Yaitu sebagai kondisi yang mengakhiri perulangan. Perulangan akan terus berjalan hingga nilai variabel tebakan sama dengan nilai variabel angka rahasia}
-    readln; {Membaca input dari pengguna dan menunggu pengguna menekankan tombol enter}
+            readln; {Membaca input dari pengguna dan menunggu pengguna menekankan tombol enter}
 
     // Kode Akhir //
+
 end.    {Menandakan sebagai akhir dari program}
