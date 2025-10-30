@@ -22,7 +22,7 @@ clrscr;
             writeln;
         until t = a;
             readln;
-
-
+            
 end.
+
 
