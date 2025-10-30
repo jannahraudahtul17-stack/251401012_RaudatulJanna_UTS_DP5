@@ -34,5 +34,5 @@ clrscr; {Yaitu suatu perintah untuk membersihkan layar konsol}
             readln; {Membaca input dari pengguna dan menunggu pengguna menekankan tombol enter}
 
     // Kode Akhir //
-
 end.    {Menandakan sebagai akhir dari program}
+
